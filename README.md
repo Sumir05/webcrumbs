@@ -70,8 +70,8 @@ If Webcrumbs aligns with your vision for the future of web development, kindly g
 - Enhanced feedback loop
 - Community contributions
 
-# Further Details
-This project operates under the MIT License and is a community-driven endeavor.
+<!-- # Further Details
+This project operates under the MIT License and is a community-driven endeavor. -->
 
 **Credits**  
 Spearheaded and maintained by [Webcrumbs Community](https://github.com/webcrumbs-community).
